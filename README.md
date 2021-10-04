@@ -1,6 +1,6 @@
 ## Hi there! I'm EduardoSilva09 👋
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/EduardoSilva09">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoSilva09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva09&layout=compact&langs_count=7&theme=dark"/> -->
@@ -17,6 +17,6 @@
 <div> 
   <a href="https://br.linkedin.com/in/eduardo-silva-feitosa-6b4b3b179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br/> 
-</div>
+</div> -->
   
 ![Snake animation](https://github.com/EduardoSilva09/EduardoSilva09/blob/output/github-contribution-grid-snake.svg)
