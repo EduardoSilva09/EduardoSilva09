@@ -1,9 +1,9 @@
 ## Hi there! I'm EduardoSilva09 👋
-##
+
 - 🔭 I’m currently working on Back-End
 - 🌱 I’m currently learning C#
 - ⚡ Fun fact: I'm a coffee lover
-
+##
 <!-- <div align="center">
   <a href="https://github.com/EduardoSilva09">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoSilva09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
