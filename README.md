@@ -1,7 +1,7 @@
 ## Hi there! I'm EduardoSilva09 👋
 
 - 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Design patterns
 - ⚡ Fun fact: I'm a coffee lover
 ##
 <div align="center">
