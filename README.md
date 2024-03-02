@@ -20,10 +20,10 @@
 - My career goal is to contribute meaningfully to innovative projects, leveraging my skills to make a tangible impact.
 
 📚 **Certifications Galore:**
-- Check out my [LinkedIn profile]([linkedin-profile](https://www.linkedin.com/in/eduardo-silva-feitosa-6b4b3b179/)) for a comprehensive list of certifications that validate my commitment to continuous learning.
+- Check out my [LinkedIn profile](https://www.linkedin.com/in/eduardo-silva-feitosa-6b4b3b179/) for a comprehensive list of certifications that validate my commitment to continuous learning.
 
 📫 **Connect with Me:**
-- [LinkedIn]([linkedin-profile](https://www.linkedin.com/in/eduardo-silva-feitosa-6b4b3b179/))
+- [LinkedIn](https://www.linkedin.com/in/eduardo-silva-feitosa-6b4b3b179/)
 
 👨‍💻 **Ready for the Next Challenge!**
 
