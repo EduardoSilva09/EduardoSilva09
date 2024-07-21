@@ -1,7 +1,7 @@
 👋 Hey there! I'm Eduardo, a seasoned software developer with a 3-year journey navigating the dynamic realms of technology. My toolkit includes proficiency in Delphi, C#, Java, and NodeJS, allowing me to craft solutions that span diverse tech stacks.
 
 🚀 **Expertise:**
-- **Languages:** Delphi, C#, Java, NodeJS
+- **Languages:** Delphi, C#, Java, JS
 - **Technologies:** REST API, Web Development, Algorithm Optimization
 
 💼 **Professional Background:**
